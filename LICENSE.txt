@@ -2,33 +2,3 @@ BSD 3-Clause License
 
 Copyright (c) 2026, Matei Vladut-Florian
 
-# BackendOrar - API Backend pentru Gestionarea Orarelor
-
-API RESTful pentru gestionarea orarelor școlare, construit cu Node.js, Express și PostgreSQL.
-
-## 📋 Cuprins
-
-- [Tehnologii](#tehnologii)
-- [Instalare](#instalare)
-- [Configurare](#configurare)
-- [Rute API](#rute-api)
-- [Structura Proiectului](#structura-proiectului)
-- [Baza de Date](#baza-de-date)
-- [Testare cu Postman](#testare-cu-postman)
-- [Script-uri Disponibile](#script-uri-disponibile)
-
-## 🛠 Tehnologii
-
-- **Node.js** - Runtime JavaScript
-- **Express.js** - Framework web
-- **PostgreSQL** - Sistem de baze de date
-- **JWT** - Autentificare cu token
-- **bcryptjs** - Criptare parole
-- **Postman** - Testare API
-
-## 🚀 Instalare
-
-### 1. Clonează repository-ul
-```bash
-git clone https://github.com/MateiVladFlorian/BackendOrar.git
-cd BackendOrar
